@@ -1,0 +1,30 @@
+Package: adaptation-asus-x00td
+Version: 0.0.0+git20230629051318.d5d6e35.bookworm
+Architecture: arm64
+Maintainer: iAboothahir <aboothahirpkd@gmail.com>
+Installed-Size: 9
+Depends: adaptation-hybris-api28-phone, adaptation-asus-x00td-configs (= 0.0.0+git20230629051318.d5d6e35.bookworm)
+Filename: ./adaptation-asus-x00td_0.0.0+git20230629051318.d5d6e35.bookworm_arm64.deb
+Size: 2120
+MD5sum: ee7e44c3ac231afd66f8d398dd06a00e
+SHA1: a6b787e722d7f5af09c99b50a63c449c9b89097f
+SHA256: 819df53b5f3280dfe02fc0ce7770cfa8ffd3b9f119f505f36f6d3f879ad9cf9f
+Section: metapackages
+Priority: optional
+Description: Community adaptation for asus-x00td - metapackage
+
+Package: adaptation-asus-x00td-configs
+Source: adaptation-asus-x00td
+Version: 0.0.0+git20230629051318.d5d6e35.bookworm
+Architecture: arm64
+Maintainer: iAboothahir <aboothahirpkd@gmail.com>
+Installed-Size: 27
+Filename: ./adaptation-asus-x00td-configs_0.0.0+git20230629051318.d5d6e35.bookworm_arm64.deb
+Size: 4928
+MD5sum: 40d1293986e94ac1a1e6c06d9cb96a6b
+SHA1: ee338e688d7f2517f035d629611518d10b61416c
+SHA256: 3f0f729685fcb718cae0c22a41999c75bcec2605fda65a34f0c6fdc58a377be9
+Section: metapackages
+Priority: optional
+Description: Community adaptation for asus-x00td - adaptation configurations
+

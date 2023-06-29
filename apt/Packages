@@ -1,29 +1,29 @@
 Package: adaptation-asus-x00td
-Version: 0.0.0+git20230629051318.d5d6e35.bookworm+git20230629055929.c51047a.bookworm
+Version: 0.0.0+git20230629051318.d5d6e35.bookworm+git20230629124252.1516d65.bookworm
 Architecture: arm64
 Maintainer: iAboothahir <aboothahirpkd@gmail.com>
 Installed-Size: 9
-Depends: adaptation-hybris-api28-phone, adaptation-asus-x00td-configs (= 0.0.0+git20230629051318.d5d6e35.bookworm+git20230629055929.c51047a.bookworm)
-Filename: ./adaptation-asus-x00td_0.0.0+git20230629051318.d5d6e35.bookworm+git20230629055929.c51047a.bookworm_arm64.deb
-Size: 2188
-MD5sum: 16a8f119c28f2dc213ea911221ae0a03
-SHA1: 301f62c5682289ee6031935c3141549a29b679cf
-SHA256: 594fd8a3c606c3e386159beeb0b24552e71ab7cfd7065c0e0c01faf6a7d267b7
+Depends: adaptation-hybris-api28-phone, adaptation-asus-x00td-configs (= 0.0.0+git20230629051318.d5d6e35.bookworm+git20230629124252.1516d65.bookworm)
+Filename: ./adaptation-asus-x00td_0.0.0+git20230629051318.d5d6e35.bookworm+git20230629124252.1516d65.bookworm_arm64.deb
+Size: 2200
+MD5sum: 696b8ba1b0e33b6841945e223341d8cd
+SHA1: bb579e51ed2b002ec06607f4cb979c2c03552afa
+SHA256: 5a782964d58028d6ce94ca16598a3328ba9d12e4ec5679bce493cac1e0b82564
 Section: metapackages
 Priority: optional
 Description: Community adaptation for asus-x00td - metapackage
 
 Package: adaptation-asus-x00td-configs
 Source: adaptation-asus-x00td
-Version: 0.0.0+git20230629051318.d5d6e35.bookworm+git20230629055929.c51047a.bookworm
+Version: 0.0.0+git20230629051318.d5d6e35.bookworm+git20230629124252.1516d65.bookworm
 Architecture: arm64
 Maintainer: iAboothahir <aboothahirpkd@gmail.com>
-Installed-Size: 20
-Filename: ./adaptation-asus-x00td-configs_0.0.0+git20230629051318.d5d6e35.bookworm+git20230629055929.c51047a.bookworm_arm64.deb
-Size: 3752
-MD5sum: 76814c2303c6835026880904776e9873
-SHA1: 35861fb0843366bf96b06d654383ccac5377c76b
-SHA256: fec2fca56f01d4fee91f8c96b09baa2847b7b7ab1e10d3319fda2e4e5ad9f775
+Installed-Size: 44
+Filename: ./adaptation-asus-x00td-configs_0.0.0+git20230629051318.d5d6e35.bookworm+git20230629124252.1516d65.bookworm_arm64.deb
+Size: 5672
+MD5sum: 07a77c94141f15a0c4238d47bc9ce627
+SHA1: ab17cfdde33a6b3de93277e6e5222da3ebb96282
+SHA256: b0403d9f2e100fb22cd410de78a8b181cc10705928de5aa4b39b7fed91673147
 Section: metapackages
 Priority: optional
 Description: Community adaptation for asus-x00td - adaptation configurations

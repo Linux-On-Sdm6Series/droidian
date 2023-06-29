@@ -18,12 +18,12 @@ Source: adaptation-asus-x00td
 Version: 0.0.0+git20230629051318.d5d6e35.bookworm
 Architecture: arm64
 Maintainer: iAboothahir <aboothahirpkd@gmail.com>
-Installed-Size: 27
+Installed-Size: 24
 Filename: ./adaptation-asus-x00td-configs_0.0.0+git20230629051318.d5d6e35.bookworm_arm64.deb
-Size: 4928
-MD5sum: 40d1293986e94ac1a1e6c06d9cb96a6b
-SHA1: ee338e688d7f2517f035d629611518d10b61416c
-SHA256: 3f0f729685fcb718cae0c22a41999c75bcec2605fda65a34f0c6fdc58a377be9
+Size: 3668
+MD5sum: d29baa928683b3397d1b83432b93d864
+SHA1: 5e245b3330300639d50e04e348b5306acb473965
+SHA256: e1911203ebb16d71c35b1c0b78b2a7463d64be4e2d882bf58c5785e0da25cf34
 Section: metapackages
 Priority: optional
 Description: Community adaptation for asus-x00td - adaptation configurations

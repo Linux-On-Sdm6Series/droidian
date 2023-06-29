@@ -1,29 +1,29 @@
 Package: adaptation-asus-x00td
-Version: 0.0.0+git20230629051318.d5d6e35.bookworm
+Version: 0.0.0+git20230629051318.d5d6e35.bookworm+git20230629055929.c51047a.bookworm
 Architecture: arm64
 Maintainer: iAboothahir <aboothahirpkd@gmail.com>
 Installed-Size: 9
-Depends: adaptation-hybris-api28-phone, adaptation-asus-x00td-configs (= 0.0.0+git20230629051318.d5d6e35.bookworm)
-Filename: ./adaptation-asus-x00td_0.0.0+git20230629051318.d5d6e35.bookworm_arm64.deb
-Size: 2120
-MD5sum: ee7e44c3ac231afd66f8d398dd06a00e
-SHA1: a6b787e722d7f5af09c99b50a63c449c9b89097f
-SHA256: 819df53b5f3280dfe02fc0ce7770cfa8ffd3b9f119f505f36f6d3f879ad9cf9f
+Depends: adaptation-hybris-api28-phone, adaptation-asus-x00td-configs (= 0.0.0+git20230629051318.d5d6e35.bookworm+git20230629055929.c51047a.bookworm)
+Filename: ./adaptation-asus-x00td_0.0.0+git20230629051318.d5d6e35.bookworm+git20230629055929.c51047a.bookworm_arm64.deb
+Size: 2188
+MD5sum: 16a8f119c28f2dc213ea911221ae0a03
+SHA1: 301f62c5682289ee6031935c3141549a29b679cf
+SHA256: 594fd8a3c606c3e386159beeb0b24552e71ab7cfd7065c0e0c01faf6a7d267b7
 Section: metapackages
 Priority: optional
 Description: Community adaptation for asus-x00td - metapackage
 
 Package: adaptation-asus-x00td-configs
 Source: adaptation-asus-x00td
-Version: 0.0.0+git20230629051318.d5d6e35.bookworm
+Version: 0.0.0+git20230629051318.d5d6e35.bookworm+git20230629055929.c51047a.bookworm
 Architecture: arm64
 Maintainer: iAboothahir <aboothahirpkd@gmail.com>
-Installed-Size: 24
-Filename: ./adaptation-asus-x00td-configs_0.0.0+git20230629051318.d5d6e35.bookworm_arm64.deb
-Size: 3668
-MD5sum: d29baa928683b3397d1b83432b93d864
-SHA1: 5e245b3330300639d50e04e348b5306acb473965
-SHA256: e1911203ebb16d71c35b1c0b78b2a7463d64be4e2d882bf58c5785e0da25cf34
+Installed-Size: 27
+Filename: ./adaptation-asus-x00td-configs_0.0.0+git20230629051318.d5d6e35.bookworm+git20230629055929.c51047a.bookworm_arm64.deb
+Size: 5028
+MD5sum: 6162ef6f3fcb8e0962267e4c1d2c7aa7
+SHA1: 324fb9343c20d73943668d2181a6a7076995a7b2
+SHA256: a1628306287cddeaac21fb247495d5bafd37f5e75134475d3e4e37a86dcf63da
 Section: metapackages
 Priority: optional
 Description: Community adaptation for asus-x00td - adaptation configurations

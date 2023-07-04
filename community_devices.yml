@@ -12,3 +12,9 @@ asus_x00td:
   packages:
     - adaptation-asus-x00td
     - adaptation-asus-x00td-configs
+    - linux-bootimage-asus-x00td
+    - linux-bootimage-4.4.223-asus-x00td
+    - linux-headers-4.4.223-asus-x00td
+    - linux-headers-asus-x00td
+    - linux-image-asus-x00td
+    - linux-image-4.4.223-asus-x00td

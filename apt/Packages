@@ -1,0 +1,30 @@
+Package: adaptation-asus-x00td
+Version: 0.0.0+git20230629051318.d5d6e35.bookworm+git20230630134058.36a8b17.bookworm+git20230630143016.9d59edf.bookworm+git20230630144213.8204346.bookworm
+Architecture: arm64
+Maintainer: iAboothahir <aboothahirpkd@gmail.com>
+Installed-Size: 9
+Depends: adaptation-hybris-api28-phone, adaptation-asus-x00td-configs (= 0.0.0+git20230629051318.d5d6e35.bookworm+git20230630134058.36a8b17.bookworm+git20230630143016.9d59edf.bookworm+git20230630144213.8204346.bookworm)
+Filename: ./adaptation-asus-x00td_0.0.0+git20230629051318.d5d6e35.bookworm+git20230630134058.36a8b17.bookworm+git20230630143016.9d59edf.bookworm+git20230630144213.8204346.bookworm_arm64.deb
+Size: 2276
+MD5sum: 1e08ad4864e926c14e3258299461c298
+SHA1: 199d5acc177ca574a86579168cc7adff775fe7ae
+SHA256: 7c094bb295ce559d8277d86a3220b19b851e7ea13d24816e3a2d04feeaacf064
+Section: metapackages
+Priority: optional
+Description: Community adaptation for asus-x00td - metapackage
+
+Package: adaptation-asus-x00td-configs
+Source: adaptation-asus-x00td
+Version: 0.0.0+git20230629051318.d5d6e35.bookworm+git20230630134058.36a8b17.bookworm+git20230630143016.9d59edf.bookworm+git20230630144213.8204346.bookworm
+Architecture: arm64
+Maintainer: iAboothahir <aboothahirpkd@gmail.com>
+Installed-Size: 44
+Filename: ./adaptation-asus-x00td-configs_0.0.0+git20230629051318.d5d6e35.bookworm+git20230630134058.36a8b17.bookworm+git20230630143016.9d59edf.bookworm+git20230630144213.8204346.bookworm_arm64.deb
+Size: 5716
+MD5sum: 883be9afaf019f46be67e046268e061d
+SHA1: b6db07ec0d4039653f4c709d197370cd1a42df78
+SHA256: 3d17ca38d80d1793ac68fced98e487bd0228f91bb907f3dcd1067b7dd3f13917
+Section: metapackages
+Priority: optional
+Description: Community adaptation for asus-x00td - adaptation configurations
+

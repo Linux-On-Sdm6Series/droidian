@@ -1,0 +1,20 @@
+# This file has been generated automatically by droidian-new-device
+
+# asus x00td
+asus_x00td:
+  type: image
+  arch: arm64
+  edition: phosh
+  variant: phone
+  apilevel: 28
+  use_internal_repository: true
+
+  packages:
+    - adaptation-asus-x00td
+    - adaptation-asus-x00td-configs
+    - linux-bootimage-asus-x00td
+    - linux-bootimage-4.4.223-asus-x00td
+    - linux-headers-4.4.223-asus-x00td
+    - linux-headers-asus-x00td
+    - linux-image-asus-x00td
+    - linux-image-4.4.223-asus-x00td
